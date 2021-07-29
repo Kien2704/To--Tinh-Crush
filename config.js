@@ -16,5 +16,5 @@ Vì từ bao giờ anh đã ngừng muốn yêu em qua những dòng tin nhắn 
     mess: 'Biếtmà',
     messDesc: 'Tí call nhé',
     btnAccept: 'Okiii',
-    messLink: 'http://fb.com' https://www.facebook.com/messages/t/100004361089496
+    messLink: 'http://fb.com' 
 }
